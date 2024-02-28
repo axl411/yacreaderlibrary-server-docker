@@ -3,7 +3,7 @@ MAINTAINER muallin@gmail.com
 
 WORKDIR /src/git
 
-ENV YACREADER_VERSION 9.13.1
+ENV YACREADER_VERSION 9.14.2
 
 # Update system
 RUN apt-get update && \
